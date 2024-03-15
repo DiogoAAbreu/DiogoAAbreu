@@ -1,4 +1,4 @@
-# Olá Pessoal! 	:relaxed:
+# Olá Pessoal! 	:wave:
 
 Meu nome é Diogo Alberto Moreira de Abreu e sou **Back-End Devolper**, estou procurando minha primeira oportunidade de emprego na área. Iniciei meu estudo em programação no Senac MG e atuamente estudo na [@cubosacademy](https://cubos.academy/).
 
