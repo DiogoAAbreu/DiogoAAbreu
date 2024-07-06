@@ -21,3 +21,6 @@ Meu nome é Diogo Alberto Moreira de Abreu e sou **Back-end Developer**, sou Est
 
 
 >"Isistência traz consistência, tenha exigência consigo mesmo" - Djonga
+
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoAAbreu)
