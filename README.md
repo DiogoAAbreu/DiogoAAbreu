@@ -1,6 +1,6 @@
 # Olá Pessoal! 	
 
-Meu nome é Diogo Alberto Moreira de Abreu e sou **Back-end Developer**, sou Estagiário de TI na Secretaria de Saúde - Prefeitura de Juiz de Fora. Iniciei meu estudo em programação no Senac MG e me formei em Desenvolvimento Web Back-end pela [@cubosacademy](https://cubos.academy/). Atualmente estou cursando Análise e Desenvolvimento de Sistemas de forma presencial na Universidade Estácio de Sá.
+Meu nome é Diogo Alberto Moreira de Abreu e sou **FUll-stack Developer**, sou Estagiário de TI na Secretaria de Saúde - Prefeitura de Juiz de Fora. Iniciei meu estudo em programação no Senac MG e me formei em Desenvolvimento Web Back-end pela [@cubosacademy](https://cubos.academy/). Atualmente estou cursando Análise e Desenvolvimento de Sistemas de forma presencial na Universidade Estácio de Sá.
 
 ## :mailbox_with_mail: Para me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-alberto-moreira-de-abreu-938a95252/)
