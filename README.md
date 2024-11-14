@@ -26,7 +26,7 @@ Meu nome é Diogo Alberto Moreira de Abreu e sou **Full-stack Developer**, sou E
 -	:musical_note: Ouvir Música
 
 
->"Insistência traz consistência, tenha exigência consigo mesmo" - Djonga
+>"Insistência, traz consistência, tenha exigência consigo mesmo" - Djonga
 
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoAAbreu&theme=dracula&custom_title=Linguagens)
